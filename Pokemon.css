@@ -1,0 +1,103 @@
+
+#imagen{
+    width: 100%;
+    height: 150px;
+    margin-top: 30px;
+}
+
+.container{
+    max-width: 500px;
+    width: 100%;
+}
+
+.pokedex{
+  
+   width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   
+
+}
+
+.pokePantalla{
+    
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgba(172, 238, 255, 0.876);
+    position: sticky;
+    display: block;
+    margin-top: -558px;
+    margin-left: 75px;
+    width: 216px;
+    max-width: 216px;
+    height: 156px;
+}
+
+.poke-name{
+
+    
+    font-size: 12px;
+    text-align: right;
+
+}
+
+.poke-stats{
+
+    font-size: 10px;
+    text-align: right;
+    
+}
+
+.poke-id{
+
+    font-size: 10px;
+    text-align: left;
+
+}
+
+.poke-type{
+
+    font-size: 10px;
+    text-align: left;
+}
+
+
+.busqueda{
+
+    font-family: 'Roboto Mono', monospace;
+    position: sticky;
+    margin-top: 91px;
+    margin-left: 90px;
+    max-width: 150px;
+    
+    
+}
+
+
+.btn{
+
+    background-color: #00c465;
+    position: sticky;
+    margin-top: 10px;
+    margin-left: 89px;
+    width: 123px;
+    height: 75px;
+    border-radius: 2rem;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.reset{
+    
+    position: sticky;
+    margin-top: -193px;
+    margin-left: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+
+footer{
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
